@@ -1,0 +1,6 @@
+{
+  "name": "EliteCV - Modern CV Generator",
+  "description": "A premium, minimalist CV builder with multi-language support, live preview, and AI-powered summary suggestions. Export professional ATS-friendly PDFs in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Multi-language CV support", "AI Summary Generation", "Live Preview", "PDF Export"]
+}
